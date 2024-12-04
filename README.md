@@ -13,3 +13,8 @@ Steps to run:
    * ```
      ./01.hs < input.txt
      ```
+
+### Using Nix
+
+1. Enter the Nix shell by running `nix-shell`
+2. Run step 2 above
